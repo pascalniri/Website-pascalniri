@@ -19,6 +19,7 @@ const Hero = () => {
             border:'1px solid rgb(41, 173, 159)',
             color:'rgb(41, 173, 159)',
             marginRight:'10px'
+        
             
           }
          }
